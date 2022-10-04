@@ -10,11 +10,11 @@
 
 #### About Me ?
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡️ My expertise primarily revolves around JavaScript, React, Web Development.
+- ⚡️ My expertise primarily revolves around JavaScript, React and Web Development.
 
 
 ### 🔭 **Technology Stack**
@@ -53,7 +53,7 @@
 </p>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<br />
 <br/>
 <p align="center">
     <a href="https://github.com/ShanmukhSaiMadhu/github-readme-streak-stats">
