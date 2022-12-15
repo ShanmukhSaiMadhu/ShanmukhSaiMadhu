@@ -10,7 +10,7 @@
 
 #### About Me ?
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 Web Developer @ Purecode Software**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
