@@ -1,16 +1,15 @@
-## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+<!-- ## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 
-<a href="https://twitter.com/intent/follow?screen_name=madhushanmukh"><img src="https://img.shields.io/badge/madhushanmukh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shanmukh-sai-madhu-4904071b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:madhushanmukhsai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1bMCBCiQ6F2UVrhEo2R26KJEiGvZzB5PG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-![Profile Views](https://komarev.com/ghpvc/?username=ShanmukhSaiMadhu&style=flat-square)
+<a href="mailto:shanmukhsaimadhu2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://drive.google.com/file/d/1U8v7Ypu6iDLkvy9o8TRpBvl4QKCbt8Vo/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ShanmukhSaiMadhu&style=flat-square)-->
 
 
 
 #### About Me ?
 
-- 🌱 Web Developer @ **Purecode Software**
+- 🌱 Data Science Intern @ Florida-Data Science for Social Good
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
