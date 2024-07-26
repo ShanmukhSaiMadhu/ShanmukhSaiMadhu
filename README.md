@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/shanmukh-sai-madhu-4904071b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:shanmukhsaimadhu2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1U8v7Ypu6iDLkvy9o8TRpBvl4QKCbt8Vo/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ShanmukhSaiMadhu&style=flat-square)-->
+![Profile Views](https://komarev.com/ghpvc/?username=ShanmukhSaiMadhu&style=flat-square)
 
 
 
@@ -33,7 +33,7 @@
 <!-- <img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp; -->
 
-#### **Databases**:
+<!-- #### **Databases**:
 
 <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 
@@ -64,4 +64,4 @@
 <a href="https://github.com/ShanmukhSaiMadhu/github-readme-activity-graph"><img alt="ShanmukhSaiMadhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShanmukhSaiMadhu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
